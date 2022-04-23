@@ -1,0 +1,25 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.class {
+  background-color: #f5cac3;
+  font-size: 40px;
+  color: #343a40;
+}
+
+.class.cool {
+  font-size: 60px;
+}
+
+#blue {
+  color: #6495ed;
+  font-weight: 500;
+  font-size: 100px;
+}
+
+#green {
+  background-color: #b9fbc0;
+  font-weight: 900;
+  font-size: 60px;
+}
